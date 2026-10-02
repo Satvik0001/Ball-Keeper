@@ -36,4 +36,4 @@ This is a gameplay prototype created to practice Unity game development, physics
 
 ---
 
-Made with ❤️ using **Unity & C#**.
+Made with **Unity & C#**.
